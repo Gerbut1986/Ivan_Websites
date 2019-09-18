@@ -1,0 +1,240 @@
+/* Helvetica Neue */
+/* Ultra Light */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-ultralight.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralight.eot*/;
+    src: url('helveticaneuecyr-ultralight.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralight.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-ultralight.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralight.woff*/ format('woff'),
+    url('helveticaneuecyr-ultralight.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralight.ttf*/ format('truetype'),
+    url('helveticaneuecyr-ultralight.svg#helveticaneuecyrultralight')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralight.svg#helveticaneuecyrultralight*/ format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-ultralightitalic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralightitalic.eot*/;
+    src: url('helveticaneuecyr-ultralightitalic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralightitalic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-ultralightitalic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralightitalic.woff*/ format('woff'),
+    url('helveticaneuecyr-ultralightitalic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralightitalic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-ultralightitalic.svg#helveticaneuecyrultraLtIt')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-ultralightitalic.svg#helveticaneuecyrultraLtIt*/ format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* Thin */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-thin.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thin.eot*/;
+    src: url('helveticaneuecyr-thin.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thin.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-thin.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thin.woff*/ format('woff'),
+    url('helveticaneuecyr-thin.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thin.ttf*/ format('truetype'),
+    url('helveticaneuecyr-thin.svg#helveticaneuecyrthin')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thin.svg#helveticaneuecyrthin*/ format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-thinitalic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thinitalic.eot*/;
+    src: url('helveticaneuecyr-thinitalic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thinitalic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-thinitalic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thinitalic.woff*/ format('woff'),
+    url('helveticaneuecyr-thinitalic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thinitalic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-thinitalic.svg#helveticaneuecyrthin_italic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-thinitalic.svg#helveticaneuecyrthin_italic*/ format('svg');
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Light */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-light.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-light.eot*/;
+    src: url('helveticaneuecyr-light.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-light.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-light.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-light.woff*/ format('woff'),
+    url('helveticaneuecyr-light.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-light.ttf*/ format('truetype'),
+    url('helveticaneuecyr-light.svg#helveticaneuecyrlight')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-light.svg#helveticaneuecyrlight*/ format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-lightitalic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-lightitalic.eot*/;
+    src: url('helveticaneuecyr-lightitalic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-lightitalic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-lightitalic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-lightitalic.woff*/ format('woff'),
+    url('helveticaneuecyr-lightitalic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-lightitalic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-lightitalic.svg#helveticaneuecyrlight_italic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-lightitalic.svg#helveticaneuecyrlight_italic*/ format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Regular */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-roman.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-roman.eot*/;
+    src: url('helveticaneuecyr-roman.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-roman.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-roman.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-roman.woff*/ format('woff'),
+    url('helveticaneuecyr-roman.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-roman.ttf*/ format('truetype'),
+    url('helveticaneuecyr-roman.svg#helveticaneuecyrroman')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-roman.svg#helveticaneuecyrroman*/ format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-bold.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bold.eot*/;
+    src: url('helveticaneuecyr-bold.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bold.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-bold.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bold.woff*/ format('woff'),
+    url('helveticaneuecyr-bold.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bold.ttf*/ format('truetype'),
+    url('helveticaneuecyr-bold.svg#helveticaneuecyrbold')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bold.svg#helveticaneuecyrbold*/ format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-italic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-italic.eot*/;
+    src: url('helveticaneuecyr-italic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-italic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-italic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-italic.woff*/ format('woff'),
+    url('helveticaneuecyr-italic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-italic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-italic.svg#helveticaneuecyritalic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-italic.svg#helveticaneuecyritalic*/ format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-bolditalic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bolditalic.eot*/;
+    src: url('helveticaneuecyr-bolditalic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bolditalic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-bolditalic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bolditalic.woff*/ format('woff'),
+    url('helveticaneuecyr-bolditalic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bolditalic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-bolditalic.svg#helveticaneuecyrbold_italic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-bolditalic.svg#helveticaneuecyrbold_italic*/ format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Medium */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-medium.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-medium.eot*/;
+    src: url('helveticaneuecyr-medium.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-medium.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-medium.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-medium.woff*/ format('woff'),
+    url('helveticaneuecyr-medium.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-medium.ttf*/ format('truetype'),
+    url('helveticaneuecyr-medium.svg#helveticaneuecyrmedium')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-medium.svg#helveticaneuecyrmedium*/ format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-mediumitaicl.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-mediumitaicl.eot*/;
+    src: url('helveticaneuecyr-mediumitaicl.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-mediumitaicl.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-mediumitaicl.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-mediumitaicl.woff*/ format('woff'),
+    url('helveticaneuecyr-mediumitaicl.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-mediumitaicl.ttf*/ format('truetype'),
+    url('helveticaneuecyr-mediumitaicl.svg#helveticaneuecyrmedium_italic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-mediumitaicl.svg#helveticaneuecyrmedium_italic*/ format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Heavy */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-heavy.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavy.eot*/;
+    src: url('helveticaneuecyr-heavy.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavy.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-heavy.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavy.woff*/ format('woff'),
+    url('helveticaneuecyr-heavy.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavy.ttf*/ format('truetype'),
+    url('helveticaneuecyr-heavy.svg#helveticaneuecyrheavy')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavy.svg#helveticaneuecyrheavy*/ format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-heavyitalic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavyitalic.eot*/;
+    src: url('helveticaneuecyr-heavyitalic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavyitalic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-heavyitalic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavyitalic.woff*/ format('woff'),
+    url('helveticaneuecyr-heavyitalic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavyitalic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-heavyitalic.svg#helveticaneuecyrheavy_italic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-heavyitalic.svg#helveticaneuecyrheavy_italic*/ format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+/* Black */
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-black.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-black.eot*/;
+    src: url('helveticaneuecyr-black.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-black.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-black.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-black.woff*/ format('woff'),
+    url('helveticaneuecyr-black.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-black.ttf*/ format('truetype'),
+    url('helveticaneuecyr-black.svg#helveticaneuecyrblack')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-black.svg#helveticaneuecyrblack*/ format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('helveticaneuecyr-blackitalic.eot')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-blackitalic.eot*/;
+    src: url('helveticaneuecyr-blackitalic.html#iefix')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-blackitalic.eot?#iefix*/ format('embedded-opentype'),
+    url('helveticaneuecyr-blackitalic.woff')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-blackitalic.woff*/ format('woff'),
+    url('helveticaneuecyr-blackitalic.ttf')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-blackitalic.ttf*/ format('truetype'),
+    url('helveticaneuecyr-blackitalic.svg#helveticaneuecyrblack_italic')/*tpa=http://nabanane.com.ua/fonts/helveticaneuecyr-blackitalic.svg#helveticaneuecyrblack_italic*/ format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'pf_din_text_cond_promedium';
+    src: url('PFDinTextCondPro-Medium-webfont.eot')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Medium-webfont.eot*/;
+    src: url('PFDinTextCondPro-Medium-webfont.html#iefix')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Medium-webfont.eot?#iefix*/ format('embedded-opentype'),
+    url('PFDinTextCondPro-Medium-webfont.woff2')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Medium-webfont.woff2*/ format('woff2'),
+    url('PFDinTextCondPro-Medium-webfont.woff')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Medium-webfont.woff*/ format('woff'),
+    url('PFDinTextCondPro-Medium-webfont.ttf')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Medium-webfont.ttf*/ format('truetype'),
+    url('PFDinTextCondPro-Medium-webfont.svg#pf_din_text_cond_promedium')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Medium-webfont.svg#pf_din_text_cond_promedium*/ format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_din_text_cond_probold';
+    src: url('PFDinTextCondPro-Bold-webfont.eot')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Bold-webfont.eot*/;
+    src: url('PFDinTextCondPro-Bold-webfont.html#iefix')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Bold-webfont.eot?#iefix*/ format('embedded-opentype'),
+    url('PFDinTextCondPro-Bold-webfont.woff2')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Bold-webfont.woff2*/ format('woff2'),
+    url('PFDinTextCondPro-Bold-webfont.woff')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Bold-webfont.woff*/ format('woff'),
+    url('PFDinTextCondPro-Bold-webfont.ttf')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Bold-webfont.ttf*/ format('truetype'),
+    url('PFDinTextCondPro-Bold-webfont.svg#pf_din_text_cond_probold')/*tpa=http://nabanane.com.ua/fonts/PFDinTextCondPro-Bold-webfont.svg#pf_din_text_cond_probold*/ format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: url('pfdintextcondpro-thin.eot')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-thin.eot*/;
+    src: url('pfdintextcondpro-thin.html#iefix')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-thin.eot?#iefix*/ format('embedded-opentype'),
+    url('pfdintextcondpro-thin.woff2')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-thin.woff2*/ format('woff2'),
+    url('pfdintextcondpro-thin.woff')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-thin.woff*/ format('woff'),
+    url('pfdintextcondpro-thin.ttf')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-thin.ttf*/ format('truetype'),
+    url('pfdintextcondpro-thin.svg#pf_din_text_cond_prothin')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-thin.svg#pf_din_text_cond_prothin*/ format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: url('pfdintextcondpro-regular.eot')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-regular.eot*/;
+    src: url('pfdintextcondpro-regular.html#iefix')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-regular.eot?#iefix*/ format('embedded-opentype'),
+    url('pfdintextcondpro-regular.woff2')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-regular.woff2*/ format('woff2'),
+    url('pfdintextcondpro-regular.woff')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-regular.woff*/ format('woff'),
+    url('pfdintextcondpro-regular.ttf')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-regular.ttf*/ format('truetype'),
+    url('pfdintextcondpro-regular.svg#pf_din_text_cond_proregular')/*tpa=http://nabanane.com.ua/fonts/pfdintextcondpro-regular.svg#pf_din_text_cond_proregular*/ format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
